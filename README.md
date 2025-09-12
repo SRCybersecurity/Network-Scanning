@@ -54,9 +54,9 @@ Nmap is usually pre-installed on Kali Linux. To verify or install:
 ### 7.Identify potential security risks from open ports.
  - Open vulnerable ports leads to exploitation. 
 ---
-THANK YOU
----
 END
-
+---
+Thank You
+---
  
 
