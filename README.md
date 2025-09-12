@@ -1,7 +1,4 @@
 # ELEVATE_LABS_TASK1
-Task : Scan Your Local Network for Open Ports. </br> 
-Objective : Learn to discover open ports on devices in your local network to understand network exposure. </br>
-Tools: Nmap (free), Wireshark (optional).
 #  Scan Your Local Network for Open Ports
 
 ## 🎯 Objective
