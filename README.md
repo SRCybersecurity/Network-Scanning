@@ -5,7 +5,7 @@
 Learn to discover open ports on devices in your local network to understand network exposure.
 
 ## 🛠️ Tools
-Nmap (free)
+Nmap (free) </br>
 Wireshark (optional)
 
 ---
