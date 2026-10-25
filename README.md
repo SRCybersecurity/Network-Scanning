@@ -1,4 +1,4 @@
-# Scan Local Network for Open Ports
+# Local Network Port Scanning and Exposure Analysis
 
 ## 🎯 Objective
 Learn to discover open ports on devices in your local network to understand network exposure.
